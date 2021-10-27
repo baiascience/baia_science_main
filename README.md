@@ -12,9 +12,8 @@ As a experienced Data Scientist a...
 **Background in:** Python, Tableau, Pandas, Streamlit, Machine Learning, Process Automation, Forecast and Time Series.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/matheus-baia-5872b662/)
+* [Blog no Medium](https://matheus-baia.medium.com/)
 
 
 ## Projetos:
