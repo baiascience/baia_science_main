@@ -5,7 +5,9 @@
 </p>
 
 # Matheus Baia
-Engenheiro e Cientista de dados* at Grupo DASA
+Engenheiro e Cientista de dados at Grupo DASA
+
+
 
 
 **Background in:** Lean Six Sigma Greenbelt, Process Automation, Supply Chain, Power BI, Tableau, Streamlit, Python, Pandas, Numpy, Machine Learning
