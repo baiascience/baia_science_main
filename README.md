@@ -5,23 +5,21 @@
 </p>
 
 # Matheus Baia
-<sub>*Data Scientist* at Grupo DASA </sub>
+<sub>*Engenheiro e Cientista de dados* at Grupo DASA </sub>
 
-As a experienced Data Scientist a...
 
-**Background in:** Python, Tableau, Pandas, Streamlit, Machine Learning, Process Automation, Forecast and Time Series.
+**Background in:** Lean Six Sigma Greenbelt, Process Automation, Supply Chain, Power BI, Tableau, Streamlit, Python, Pandas, Numpy, Machine Learning
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-baia-5872b662/)
 * [Blog no Medium](https://matheus-baia.medium.com/)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Artigos:
 
-* **Example 1** https://bit.ly/2L2cMwy
-* **Example 2** https://bit.ly/2Li5pzY
-* **Example 3** https://bit.ly/2Ubr5SH
+* **Example 1** https://bit.ly/3F2fOKI
+
+## Projetos 
 
 
 ---
