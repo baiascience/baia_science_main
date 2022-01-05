@@ -29,7 +29,7 @@ Medium: https://bit.ly/3n3CnID
 
 **P01: Do Python e SQL ao Power BI - WebScraping do IMDB**
 <br>
-Github: https://bit.ly/3pTDrjC
+Github: https://bit.ly/3zywtUv
 <br>
 Medium: https://bit.ly/3ePqzEX
 
