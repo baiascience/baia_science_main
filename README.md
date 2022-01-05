@@ -27,6 +27,16 @@ Medium: https://bit.ly/3n3CnID
 
 ## Projetos:
 
+**P01: Do Python e SQL ao Power BI - WebScraping do IMDB**
+<br>
+Github: https://bit.ly/3pTDrjC
+<br>
+Medium: https://bit.ly/3ePqzEX
+
+
+---
+
+
 
 ---
 
